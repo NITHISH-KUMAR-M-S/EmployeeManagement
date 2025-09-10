@@ -70,8 +70,21 @@ EmployeeManagement/
 ---
 
 ## 📸 Screenshots
+### 🏠 Code Page
+![Code Page](screenshots/Code.png)
 
-<img width="1919" height="876" alt="Screenshot 2025-09-06 104306" src="https://github.com/user-attachments/assets/fa1cb40b-2548-4dfb-a290-edd49c619efc" />
+### 🏠 Home Page
+![Home Page](screenshots/Home.png)
+
+### ➕ Register Employee
+![Register Page](screenshots/Register.png)
+
+### 📋 Employee List
+![Employee List](screenshots/EmployeeList.png)
+
+### ✏️ Employee Details By Employee ID Page
+![Edit Page](screenshots/EmpDetails.png)
+
 
 
 ---
