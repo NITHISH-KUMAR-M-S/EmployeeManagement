@@ -19,7 +19,7 @@ This small project demonstrates basic Create, Read, Update, and Delete operation
 - **Architecture:** MVC (Model-View-Controller)  
 
 ## 📂 Project Structure
-
+```
 EmployeeManagement/
 ┣ src/
 ┃ ┣ main/
@@ -30,7 +30,7 @@ EmployeeManagement/
 ┃ ┗ webapp/                      # JSP pages, CSS, images
 ┣ pom.xml                         # Maven dependencies
 ┗ screenshots/                    # Project screenshots (for README)
-
+```
 
 ## ⚡ How to Run (Quick)
 1. Clone the repository:
