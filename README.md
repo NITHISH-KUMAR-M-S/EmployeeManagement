@@ -67,25 +67,34 @@ EmployeeManagement/
 
 ## 📸 Screenshots
 
-### 🖥 Code Page
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/Code.png" alt="Code Page" width="250"><br>
+      <b>Code Page</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Home.png" alt="Home Page" width="250"><br>
+      <b>Home Page</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Register.png" alt="Register Page" width="250"><br>
+      <b>Register Employee</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/EmployeeList.png" alt="Employee List" width="250"><br>
+      <b>Employee List</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/EmpDetails.png" alt="Edit Page" width="250"><br>
+      <b>Employee Details (Edit)</b>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-![Code Page](https://raw.githubusercontent.com/NITHISH-KUMAR-M-S/EmployeeManagement/main/screenshots/Code.png)
-
-### 🏠 Home Page
-
-![Home Page](https://raw.githubusercontent.com/NITHISH-KUMAR-M-S/EmployeeManagement/main/screenshots/Home.png)
-
-### ➕ Register Employee
-
-![Register Page](https://raw.githubusercontent.com/NITHISH-KUMAR-M-S/EmployeeManagement/main/screenshots/Register.png)
-
-### 📋 Employee List
-
-![Employee List](https://raw.githubusercontent.com/NITHISH-KUMAR-M-S/EmployeeManagement/main/screenshots/EmployeeList.png)
-
-### ✏️ Employee Details (Edit)
-
-![Edit Page](https://raw.githubusercontent.com/NITHISH-KUMAR-M-S/EmployeeManagement/main/screenshots/EmpDetails.png)
 
 ---
 
