@@ -71,19 +71,19 @@ EmployeeManagement/
 
 ## 📸 Screenshots
 ### 🏠 Code Page
-![Code Page](screenshots/Code.png)
+![Code Page](https://raw.githubusercontent.com/NITHISH-KUMAR-M-S/EmployeeManagement/main/screenshots/Code.png)
 
 ### 🏠 Home Page
-![Home Page](screenshots/Home.png)
+![Home Page](https://raw.githubusercontent.com/NITHISH-KUMAR-M-S/EmployeeManagement/main/screenshots/Home.png)
 
 ### ➕ Register Employee
-![Register Page](screenshots/Register.png)
+![Register Page](https://raw.githubusercontent.com/NITHISH-KUMAR-M-S/EmployeeManagement/main/screenshots/Register.png)
 
 ### 📋 Employee List
-![Employee List](screenshots/EmployeeList.png)
+![Employee List](https://raw.githubusercontent.com/NITHISH-KUMAR-M-S/EmployeeManagement/main/screenshots/EmployeeList.png)
 
 ### ✏️ Employee Details By Employee ID Page
-![Edit Page](screenshots/EmpDetails.png)
+![Edit Page](https://raw.githubusercontent.com/NITHISH-KUMAR-M-S/EmployeeManagement/main/screenshots/EmpDetails.png)
 
 
 
