@@ -11,8 +11,6 @@ This small project demonstrates basic Create, Read, Update, and Delete operation
 - ✏️ Edit employee details  
 - ❌ Delete employees  
 
----
-
 ## 🛠 Tech Stack
 - **Backend:** Java (Servlets, JSP)  
 - **Frontend:** HTML, CSS (JSP pages)  
@@ -20,10 +18,7 @@ This small project demonstrates basic Create, Read, Update, and Delete operation
 - **Build Tool:** Maven  
 - **Architecture:** MVC (Model-View-Controller)  
 
----
-
 ## 📂 Project Structure
-```
 
 EmployeeManagement/
 ┣ src/
@@ -36,19 +31,14 @@ EmployeeManagement/
 ┣ pom.xml                         # Maven dependencies
 ┗ screenshots/                    # Project screenshots (for README)
 
-````
-
----
 
 ## ⚡ How to Run (Quick)
 1. Clone the repository:
-   ```bash
    git clone https://github.com/NITHISH-KUMAR-M-S/EmployeeManagement.git
    cd EmployeeManagement
-````
-
-2. Import as a **Maven Project** in Eclipse or IntelliJ (File → Import → Existing Maven Project).
-3. Configure **MySQL database** (run these in your MySQL client):
+   
+3. Import as a **Maven Project** in Eclipse or IntelliJ (File → Import → Existing Maven Project).
+4. Configure **MySQL database** (run these in your MySQL client):
 
    ```sql
    CREATE DATABASE employee_db;
@@ -62,12 +52,12 @@ EmployeeManagement/
        salary DOUBLE
    );
    ```
-4. Update DB credentials in `src/main/java/com/emp/util/DbConnection.java` (URL, username, password).
-5. Build the project (optional) and deploy to **Apache Tomcat**:
+5. Update DB credentials in `src/main/java/com/emp/util/DbConnection.java` (URL, username, password).
+6. Build the project (optional) and deploy to **Apache Tomcat**:
 
    * Build: `mvn clean package`
    * Deploy the generated WAR to Tomcat `webapps/` or run from your IDE on a configured Tomcat server.
-6. Open in browser:
+7. Open in browser:
 
    ```
    http://localhost:8080/EmployeeManagement
